@@ -7,8 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/eliseflaneuse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliseflaneuse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseflaneuse&layout=compact&langs_count=7&theme=dark"/>
+   <!-- [![Elise's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseflaneuse)](https://github.com/eliseflaneuse/github-readme-stats) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliseflaneuse"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseflaneuse"/>
+    
 </div>
 
 <div style="display: inline_block"><br>
