@@ -8,8 +8,7 @@
 <div align="center">
   <a href="https://github.com/eliseflaneuse">
    <!-- [![Elise's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseflaneuse)](https://github.com/eliseflaneuse/github-readme-stats) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliseflaneuse"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseflaneuse"/>
+
     
 </div>
 
