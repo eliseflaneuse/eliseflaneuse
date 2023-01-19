@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Front-End on Codecademy
 - 📫 How to reach me: eliseflaneuse@gmail.com
-- 💻 Portfolio: <a href="eliseflaneuse.com">eliseflaneuse.com</a>
+- 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a>
 - 😄 Pronouns: she/her
 
 
