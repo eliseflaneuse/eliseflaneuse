@@ -1,6 +1,6 @@
 ## Hi there, I´m Elise Flaneuse
 
-- 🌱 I’m currently learning Front-End on Codecademy, freeCodeCamp and CS50w
+- 🌱 I’m currently learning Full-Stack Engineering on Codecademy and freeCodeCamp
 - 📫 How to reach me: eliseflaneuse@gmail.com
 - 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a>
 - 😄 Pronouns: she/her
