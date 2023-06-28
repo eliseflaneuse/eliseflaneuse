@@ -6,7 +6,7 @@ Hi there, I´m Elise Flaneuse
 - 🌱 Full-Stack Engineering on Codecademy Path
 - 🤖 Responsive Web Design and JavaScript Algorithms Certified by freeCodeCamp
 - 📫 How to reach me: eliseflaneuse@gmail.com
-- 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a>
+- 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a> (Em Manutenção)
 - 😄 Pronouns: she/her
 
 <br>
