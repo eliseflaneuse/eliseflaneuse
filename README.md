@@ -50,6 +50,5 @@ Hi there, I´m Elise Flaneuse
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eliseflaneuse&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/eliseflaneuse/github-readme-stats#gh-light-mode-only)
 
 
-![Snake](https://github.com/eliseflaneuse/eliseflaneuse/blob/output/github-contribution-grid-snake.svg)
 
 
