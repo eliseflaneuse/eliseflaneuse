@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I´m Elise Flaneuse</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ## About Me
 
+- 👽 Junior Software Developer at IBM
 - ✍️ Generation Brasil T65 - Full-Stack Engineering
 - 🌱 Full-Stack Engineering on Codecademy Path
 - 🤖 Responsive Web Design and JavaScript Algorithms Certified by freeCodeCamp
