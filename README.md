@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 👽 Junior Software Developer at IBM
+- 👽 Software Developer at IBM
 - ✍️ Generation Brasil T65 - Full-Stack Engineering
 - 🌱 Full-Stack Engineering on Codecademy Path
 - 🤖 Responsive Web Design and JavaScript Algorithms Certified by freeCodeCamp
