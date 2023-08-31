@@ -10,6 +10,7 @@
 - 🌱 Bachelor's Degree in Visual Arts from UNESP
 - 📫 How to reach me: eliseflaneuse@gmail.com
 - 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a> (Em Manutenção)
+- 🚀 Medium: https://medium.com/@eliseflaneuse 
 - 😄 Pronouns: she/her
 
 
