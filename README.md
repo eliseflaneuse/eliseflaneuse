@@ -9,7 +9,7 @@
 - 🤖 Responsive Web Design and JavaScript Algorithms Certified by freeCodeCamp
 - 🌱 Bachelor's Degree in Visual Arts from UNESP
 - 📫 How to reach me: eliseflaneuse@gmail.com
-- 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a> (Em Manutenção)
+- 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a> (Under maintenance)
 - 🚀 Medium: https://medium.com/@eliseflaneuse 
 - 😄 Pronouns: she/her
 
