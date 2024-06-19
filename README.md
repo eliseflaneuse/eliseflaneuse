@@ -1,16 +1,18 @@
-<h1 align="center">Hi there, I´m Elise Flaneuse</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi there, I'm Elise Flaneuse</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ## About Me
 
-- 👽 Software Developer at IBM
+- 👽 Full Stack Developer at IBM
+- 📚 Pursuing an MBA in Software Engineering at USP/ESALQ
 - ✍️ Generation Brasil T65 - Full-Stack Engineering
 - 🌱 Full-Stack Engineering on Codecademy Path
 - 🤖 Responsive Web Design and JavaScript Algorithms Certified by freeCodeCamp
 - 🌱 Bachelor's Degree in Visual Arts from UNESP
+- ☁️ Azure Certified
 - 📫 How to reach me: eliseflaneuse@gmail.com
 - 💻 Portfolio: <a href="https://eliseflaneuse.com">eliseflaneuse.com</a> (Under maintenance)
-- 🚀 Medium: https://medium.com/@eliseflaneuse 
+- 🚀 Medium: <a href="https://medium.com/@eliseflaneuse">medium.com/@eliseflaneuse</a>
 - 😄 Pronouns: she/her
 
 
