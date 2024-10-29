@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 👽 Full Stack Developer at IBM
+- 👽 Full Stack Developer at Construo <a href="https://www.construo.ch/en">Construo</a> 
 - 📚 Pursuing an MBA in Software Engineering at USP/ESALQ
 - ✍️ Generation Brasil T65 - Full-Stack Engineering
 - 🌱 Full-Stack Engineering on Codecademy Path
