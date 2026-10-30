@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Elise Flaneuse</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## About Me
 
-- 👽 Full Stack Developer at <a href="https://www.construo.ch/en">Construo</a> 
+- 👽 Software Engineer  at <a href="https://www.construo.ch/en">Construo</a> 
 - 📚 Pursuing an MBA in Software Engineering at USP/ESALQ
 - ✍️ Generation Brasil T65 - Full-Stack Engineering
 - 🌱 Full-Stack Engineering on Codecademy Path
